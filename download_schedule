@@ -2,38 +2,20 @@
 # Downloads all schedule
 
 # HTF
-for ((course=1; course <= 4; course++))
-do
-    curl --create-dirs -o ./schedule/htf/htf_$course.doc "http://www.tstu.tver.ru/doc/schedule/htf_$course_year_2_semestr_2019-20.doc"
-done
+curl http://www.tstu.tver.ru/doc/schedule/htf_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/htf/"htf_#1.doc"
 
 # FIT
-for ((course=1; course <= 4; course++))
-do 
-    curl --create-dirs -o ./schedule/fit/fit_$course.doc "http://www.tstu.tver.ru/doc/schedule/fit_$course_year_2_semestr_2019-20.doc"
-done
+curl http://www.tstu.tver.ru/doc/schedule/fit_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/fit/"fit_#1.doc"
 
 # MSF
-for ((course=1; course <= 4; course++))
-do
-    curl --create-dirs -o ./schedule/msf/msf_$course.doc "http://www.tstu.tver.ru/doc/schedule/msf_$course_year_2_semestr_2019-20.doc"
-done
+curl http://www.tstu.tver.ru/doc/schedule/msf_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/msf/"msf_#1.doc"
 
 # FPIE
-for ((course=1; course <= 5; course++))
-do
-    curl --create-dirs -o ./schedule/fpie/fpie_$course.doc "http://www.tstu.tver.ru/doc/schedule/fpie_$course_year_2_semestr_2019-20.doc"
-done
+curl http://www.tstu.tver.ru/doc/schedule/fpie_[1-5]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/fpie/"fpie_#1.doc"
 
 # ISF
-for ((course=1; course <= 4; course++))
-do
-    curl --create-dirs -o ./schedule/isf/isf_$course.doc "http://www.tstu.tver.ru/doc/schedule/isf_$course_year_2_semestr_2019-20.doc"
-done
+curl http://www.tstu.tver.ru/doc/schedule/isf_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/isf/"isf_#1.doc"
 
 # FUSK
-for ((course=1; course <= 4; course++))
-do
-    curl --create-dirs -o ./schedule/fusk/fusk_$course.doc "http://www.tstu.tver.ru/doc/schedule/fusk_$course_year_2_semestr_2019-20.doc"
-done
+curl http://www.tstu.tver.ru/doc/schedule/fusk_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/fusk/"fusk_#1.doc"
 
