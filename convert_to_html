@@ -1,0 +1,6 @@
+#!/bin/bash
+# Converts to HTML and deleting all DOCs files
+
+soffice --headless --convert-to html ./schedule/*/*.doc --outdir ./schedule/
+rm -r ./schedule/*/
+
