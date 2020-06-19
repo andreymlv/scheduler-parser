@@ -1,0 +1,39 @@
+#!/bin/bash
+# Downloads all schedule
+
+# HTF
+for ((course=1; course <= 4; course++))
+do
+    curl --create-dirs -o ./schedule/htf/htf_$course.doc "http://www.tstu.tver.ru/doc/schedule/htf_$course_year_2_semestr_2019-20.doc"
+done
+
+# FIT
+for ((course=1; course <= 4; course++))
+do 
+    curl --create-dirs -o ./schedule/fit/fit_$course.doc "http://www.tstu.tver.ru/doc/schedule/fit_$course_year_2_semestr_2019-20.doc"
+done
+
+# MSF
+for ((course=1; course <= 4; course++))
+do
+    curl --create-dirs -o ./schedule/msf/msf_$course.doc "http://www.tstu.tver.ru/doc/schedule/msf_$course_year_2_semestr_2019-20.doc"
+done
+
+# FPIE
+for ((course=1; course <= 5; course++))
+do
+    curl --create-dirs -o ./schedule/fpie/fpie_$course.doc "http://www.tstu.tver.ru/doc/schedule/fpie_$course_year_2_semestr_2019-20.doc"
+done
+
+# ISF
+for ((course=1; course <= 4; course++))
+do
+    curl --create-dirs -o ./schedule/isf/isf_$course.doc "http://www.tstu.tver.ru/doc/schedule/isf_$course_year_2_semestr_2019-20.doc"
+done
+
+# FUSK
+for ((course=1; course <= 4; course++))
+do
+    curl --create-dirs -o ./schedule/fusk/fusk_$course.doc "http://www.tstu.tver.ru/doc/schedule/fusk_$course_year_2_semestr_2019-20.doc"
+done
+
