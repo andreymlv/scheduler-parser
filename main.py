@@ -8,15 +8,20 @@ realpath = os.path.realpath('..')
 additional_path = 'tstu_bot'
 SCHEDULE_DIRECTORY = 'schedule'
 CONVERTED_DIRECTORY = 'converted_to_xml'
+MAX_NUMBER_OF_ATTEMPTS = 2
 file_path = os.path.join(realpath , additional_path)
 
 subprocess.call(os.path.join(file_path, "download_schedule"))
 for (root,dirs,files) in os.walk(SCHEDULE_DIRECTORY): 
     for f in files:
-        try:
-            web.execute(os.path.join(file_path, SCHEDULE_DIRECTORY) , f)
-        finally:
-            print('Error: '+ f)
+        flag = False
+        number_of_attempts = 0
+        while flag == False:
+            if number_of_attempts > MAX_NUMBER_OF_ATTEMPTS:
+                print('File conversion error: '+ f)
+                break
+            number_of_attempts += 1
+            flag = web.execute(os.path.join(file_path, SCHEDULE_DIRECTORY) , f)
 
 for (root,dirs,files) in os.walk(CONVERTED_DIRECTORY): 
     for f in files:
