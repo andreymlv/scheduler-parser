@@ -59,14 +59,14 @@ def execute(file_path , file_name):
     driver = webdriver.Chrome(chrome_options=chrome_options, executable_path=driver_path)
     try:
         driver.get(WEBSITE_NAME)
-        driver.implicitly_wait(60)
+        driver.implicitly_wait(20)
         drop_area = driver.find_element_by_xpath('/html/body/main/div[1]/div/div[2]/div/div[1]/div/div[1]/p')
 
         drag_and_drop_file(drop_area , file_location)
-        driver.implicitly_wait(60)
+        driver.implicitly_wait(20)
         convert_button = driver.find_element_by_xpath('//*[@id="app"]/div/div[2]/p/button')
         convert_button.click()
-        driver.implicitly_wait(60)
+        driver.implicitly_wait(20)
         get_file_button = driver.find_element_by_xpath('/html/body/main/div[1]/div/div[2]/div/div[1]/div/div[1]/div/div[3]/a')
         get_file_button.click()
         time.sleep(5)
