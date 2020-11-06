@@ -21,7 +21,8 @@ def create_table(rows):
 def get_markup(row_elements):
     markup_arr = []
     for e in row_elements:
-        markup_arr.append(e.find_all('para'))
+        p = e.find_all('para')
+        markup_arr.append(p)
     return markup_arr
 
 def pair_arr_to_str(pair_arr):

@@ -25,7 +25,11 @@ for (root,dirs,files) in os.walk(SCHEDULE_DIRECTORY):
 
 for (root,dirs,files) in os.walk(CONVERTED_DIRECTORY): 
     for f in files:
-        objects = soup.execute(os.path.join(file_path, CONVERTED_DIRECTORY, f))
+        try:
+            objects = soup.execute(os.path.join(file_path, CONVERTED_DIRECTORY, f))
+        except Exception:
+            print('File processing error: '+ f)
+            continue
         for obj in objects:
             new_f = open(f.split('.')[0] + 'json', 'w')#TODO(Check implicit point)
             new_f.write(obj.toJSON())
