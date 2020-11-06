@@ -2,20 +2,20 @@
 # Downloads all schedule
 
 # HTF
-curl http://www.tstu.tver.ru/doc/schedule/htf_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/htf/"htf_#1.doc"
+curl http://www.tstu.tver.ru/doc/schedule/htf_[1-4]_year_1_semestr_2020-21.doc --create-dirs -o ./schedule/"htf_#1.doc"
 
 # FIT
-curl http://www.tstu.tver.ru/doc/schedule/fit_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/fit/"fit_#1.doc"
+curl http://www.tstu.tver.ru/doc/schedule/fit_[1-4]_year_1_semestr_2020-21.doc --create-dirs -o ./schedule/"fit_#1.doc"
 
 # MSF
-curl http://www.tstu.tver.ru/doc/schedule/msf_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/msf/"msf_#1.doc"
+curl http://www.tstu.tver.ru/doc/schedule/msf_[1-4]_year_1_semestr_2020-21.doc --create-dirs -o ./schedule/"msf_#1.doc"
 
 # FPIE
-curl http://www.tstu.tver.ru/doc/schedule/fpie_[1-5]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/fpie/"fpie_#1.doc"
+curl http://www.tstu.tver.ru/doc/schedule/fpie_[1-5]_year_1_semestr_2020-21.doc --create-dirs -o ./schedule/"fpie_#1.doc"
 
 # ISF
-curl http://www.tstu.tver.ru/doc/schedule/isf_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/isf/"isf_#1.doc"
+curl http://www.tstu.tver.ru/doc/schedule/isf_[1-4]_year_1_semestr_2020-21.doc --create-dirs -o ./schedule/"isf_#1.doc"
 
 # FUSK
-curl http://www.tstu.tver.ru/doc/schedule/fusk_[1-4]_year_2_semestr_2019-20.doc --create-dirs -o ./schedule/fusk/"fusk_#1.doc"
+curl http://www.tstu.tver.ru/doc/schedule/fusk_[1-4]_year_1_semestr_2020-21.doc --create-dirs -o ./schedule/"fusk_#1.doc"
 
