@@ -54,6 +54,11 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
                 "name": "Горное право (пр) Л-309",
                 "start_time": "10.15"
@@ -82,6 +87,11 @@
             },
             {
                 "is_even": true,
+                "name": "Инф. техн. в горн. деле (пр) Уч-232",
+                "start_time": "12.15"
+            },
+            {
+                "is_even": false,
                 "name": "Инф. техн. в горн. деле (пр) Уч-232",
                 "start_time": "12.15"
             },

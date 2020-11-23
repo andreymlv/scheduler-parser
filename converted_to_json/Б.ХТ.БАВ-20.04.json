@@ -8,12 +8,27 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "Математика (лек) Хт-320",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
                 "name": "Ин. язык (пр) Уч-503, 517",
                 "start_time": "10.15"
             },
             {
+                "is_even": false,
+                "name": "Ин. язык (пр) Уч-503, 517",
+                "start_time": "10.15"
+            },
+            {
                 "is_even": true,
+                "name": "Информатика (лек) Хт-320",
+                "start_time": "12.15"
+            },
+            {
+                "is_even": false,
                 "name": "Информатика (лек) Хт-320",
                 "start_time": "12.15"
             }
@@ -25,12 +40,22 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "Общ. и неорг. хим. (лаб) Хт-334",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
                 "name": "Комп. гр. и проек. тех. схем (лек) Хт-201г",
                 "start_time": "10.15"
             },
             {
                 "is_even": true,
+                "name": "Комп. гр. и проек. тех. схем (лаб) Хт-201г",
+                "start_time": "12.15"
+            },
+            {
+                "is_even": false,
                 "name": "Комп. гр. и проек. тех. схем (лаб) Хт-201г",
                 "start_time": "12.15"
             }
@@ -47,7 +72,17 @@
                 "start_time": "12.15"
             },
             {
+                "is_even": false,
+                "name": "Общ. и неорг. хим. (пр) Хт-142",
+                "start_time": "12.15"
+            },
+            {
                 "is_even": true,
+                "name": "Информатика (лаб) Уч-234",
+                "start_time": "14.00"
+            },
+            {
+                "is_even": false,
                 "name": "Информатика (лаб) Уч-234",
                 "start_time": "14.00"
             }
@@ -59,7 +94,17 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "Физика (лек) Уч-507",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
+                "name": "Математика (пр) Уч-507",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
                 "name": "Математика (пр) Уч-507",
                 "start_time": "10.15"
             },
@@ -70,6 +115,11 @@
             },
             {
                 "is_even": true,
+                "name": "Библиотека 14.10, 28.10 Хт-101",
+                "start_time": "14.00"
+            },
+            {
+                "is_even": false,
                 "name": "Библиотека 14.10, 28.10 Хт-101",
                 "start_time": "14.00"
             }

@@ -8,7 +8,17 @@
                 "start_time": "10.15"
             },
             {
+                "is_even": false,
+                "name": "Теоретич. механика (лек) Хт-112",
+                "start_time": "10.15"
+            },
+            {
                 "is_even": true,
+                "name": "Теоретич. механика (пр) Уч-337",
+                "start_time": "12.15"
+            },
+            {
+                "is_even": false,
                 "name": "Теоретич. механика (пр) Уч-337",
                 "start_time": "12.15"
             },
@@ -30,7 +40,17 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "8.30",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
+                "name": "Техническая механика (лек) Уч-337",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
                 "name": "Техническая механика (лек) Уч-337",
                 "start_time": "10.15"
             },
@@ -46,6 +66,11 @@
             },
             {
                 "is_even": true,
+                "name": "Немецкий язык (пр) Уч-422",
+                "start_time": "14.00"
+            },
+            {
+                "is_even": false,
                 "name": "Немецкий язык (пр) Уч-422",
                 "start_time": "14.00"
             },
@@ -99,7 +124,17 @@
                 "start_time": "14.00"
             },
             {
+                "is_even": false,
+                "name": "Математика (пр) Л-308",
+                "start_time": "14.00"
+            },
+            {
                 "is_even": true,
+                "name": "Философия (пр) Л-306",
+                "start_time": "15.45"
+            },
+            {
+                "is_even": false,
                 "name": "Философия (пр) Л-306",
                 "start_time": "15.45"
             }

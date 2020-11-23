@@ -71,6 +71,11 @@
             {
                 "is_even": false,
                 "name": "Пищ. биотех. (лаб) Хт-250",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
+                "name": "Пищ. биотех. (лаб) Хт-250",
                 "start_time": "12.15"
             }
         ],
@@ -86,7 +91,17 @@
                 "start_time": "15.45"
             },
             {
+                "is_even": false,
+                "name": "Общ. биотех. (пр) Хт-114",
+                "start_time": "15.45"
+            },
+            {
                 "is_even": true,
+                "name": "Общ. биотех. (пр) Хт-114",
+                "start_time": "17.30"
+            },
+            {
+                "is_even": false,
                 "name": "Общ. биотех. (пр) Хт-114",
                 "start_time": "17.30"
             }

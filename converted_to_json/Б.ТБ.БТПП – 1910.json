@@ -19,6 +19,11 @@
             },
             {
                 "is_even": false,
+                "name": "Элет. дисцип. по физ. кул-ре и спорту",
+                "start_time": "12.15"
+            },
+            {
+                "is_even": false,
                 "name": "Культурология (пр) Хт-128",
                 "start_time": "14.00"
             },
@@ -35,7 +40,17 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "8.30",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
+                "name": "Иностранный язык (пр) Уч-335, 409",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
                 "name": "Иностранный язык (пр) Уч-335, 409",
                 "start_time": "10.15"
             },
@@ -57,7 +72,17 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "8.30",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
+                "name": "Философия (лек) Л-308",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
                 "name": "Философия (лек) Л-308",
                 "start_time": "10.15"
             },
@@ -67,7 +92,17 @@
                 "start_time": "12.15"
             },
             {
+                "is_even": false,
+                "name": "Промыш. эколог.(лек) Хт-211",
+                "start_time": "12.15"
+            },
+            {
                 "is_even": true,
+                "name": "Промыш. эколог.(пр) Хт-211",
+                "start_time": "14.00"
+            },
+            {
+                "is_even": false,
                 "name": "Промыш. эколог.(пр) Хт-211",
                 "start_time": "14.00"
             },
@@ -107,11 +142,21 @@
                 "is_even": true,
                 "name": "Философия (пр) Л-306",
                 "start_time": "15.45"
+            },
+            {
+                "is_even": false,
+                "name": "Философия (пр) Л-306",
+                "start_time": "15.45"
             }
         ],
         "Четверг": [
             {
                 "is_even": true,
+                "name": "Математика (пр) Л-306",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
                 "name": "Математика (пр) Л-306",
                 "start_time": "10.15"
             },

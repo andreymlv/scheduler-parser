@@ -8,6 +8,11 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "8.30",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
                 "name": "БЖД (пр) Хт-203",
                 "start_time": "10.15"
@@ -70,7 +75,17 @@
                 "start_time": "14.00"
             },
             {
+                "is_even": false,
+                "name": "Промышл. экология (пр) Л-303",
+                "start_time": "14.00"
+            },
+            {
                 "is_even": true,
+                "name": "Прикладная физ. культура",
+                "start_time": "15.45"
+            },
+            {
+                "is_even": false,
                 "name": "Прикладная физ. культура",
                 "start_time": "15.45"
             }
@@ -124,7 +139,17 @@
                 "start_time": "14.00"
             },
             {
+                "is_even": false,
+                "name": "Регулиров. стока (лек) Л-310",
+                "start_time": "14.00"
+            },
+            {
                 "is_even": true,
+                "name": "Регулиров. стока (пр) Л-310",
+                "start_time": "15.45"
+            },
+            {
+                "is_even": false,
                 "name": "Регулиров. стока (пр) Л-310",
                 "start_time": "15.45"
             }
@@ -143,7 +168,17 @@
                 "start_time": "10.15"
             },
             {
+                "is_even": false,
+                "name": "Экономика (лек) Хт-112",
+                "start_time": "10.15"
+            },
+            {
                 "is_even": true,
+                "name": "Прикладная механика (лек) Уч-341",
+                "start_time": "12.15"
+            },
+            {
+                "is_even": false,
                 "name": "Прикладная механика (лек) Уч-341",
                 "start_time": "12.15"
             },
@@ -153,7 +188,17 @@
                 "start_time": "14.00"
             },
             {
+                "is_even": false,
+                "name": "Прикладная механика (пр) Уч-341",
+                "start_time": "14.00"
+            },
+            {
                 "is_even": true,
+                "name": "Прикладная физ. культура",
+                "start_time": "15.45"
+            },
+            {
+                "is_even": false,
                 "name": "Прикладная физ. культура",
                 "start_time": "15.45"
             }

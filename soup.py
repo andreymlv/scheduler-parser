@@ -56,6 +56,12 @@ def check_time(e):
         return True
     return False
 
+def check_separate_line(n_row, index):
+    if  check_even_and_get_position(n_row) == None:
+        if index < len(n_row) and n_row[index] == '':
+            return True
+    return False
+
 def execute(path):
     f = open(path, 'r')
     contents = f.read()
@@ -71,7 +77,8 @@ def execute(path):
     time_start = ''
     current_groups = []
 
-    for row in table:
+    for row_index in  range(len(table)):
+        row = table[row_index]
         is_pattern_config = check_config_pattern(row)
 
         if is_pattern_config:
@@ -103,12 +110,24 @@ def execute(path):
             for index in range(len(row) - 2):
                 if not(row[index + 2] == ''):
                     current_groups[index].add_subject(row[index + 2] , time_start , True , day)
+                    if row_index + 1 != len(table):
+                        if check_separate_line(table[row_index+1], index):
+                            current_groups[index].add_subject(row[index + 1] , time_start , False , day)
+                        elif not(check_even_and_get_position(table[row_index+1]) == None):
+                            current_groups[index].add_subject(row[index + 1] , time_start , False , day)
+
 
         elif(pos == 0):
             time_start = row[0]
             for index in range(len(row) - 1):
                 if not(row[index + 1] == ''):
                     current_groups[index].add_subject(row[index + 1] , time_start , True , day)
+                    if row_index + 1 != len(table):
+                        if check_separate_line(table[row_index+1], index):
+                            current_groups[index].add_subject(row[index + 1] , time_start , False , day)
+                        elif not(check_even_and_get_position(table[row_index+1]) == None):
+                            current_groups[index].add_subject(row[index + 1] , time_start , False , day)
+
 
     all_groups += current_groups
     return all_groups

@@ -18,6 +18,11 @@
                 "start_time": "12.15"
             },
             {
+                "is_even": false,
+                "name": "Технич. эстетика (лек, пр) Уч-312",
+                "start_time": "12.15"
+            },
+            {
                 "is_even": true,
                 "name": "Математика (пр) Уч-236",
                 "start_time": "14.00"
@@ -30,7 +35,17 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "Физика (лек) Уч-403",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
+                "name": "Сопрот. материалов (лек) Ц-342",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
                 "name": "Сопрот. материалов (лек) Ц-342",
                 "start_time": "10.15"
             }
@@ -70,6 +85,11 @@
             },
             {
                 "is_even": false,
+                "name": "",
+                "start_time": "8.30"
+            },
+            {
+                "is_even": false,
                 "name": "Немецкий язык (пр) Уч-422",
                 "start_time": "10.15"
             },
@@ -96,7 +116,17 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
+                "name": "Элет. дисцип. по физ. кул-ре и спорту",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
                 "name": "Элет. дисцип. по физ. кул-ре и спорту",
                 "start_time": "10.15"
             },

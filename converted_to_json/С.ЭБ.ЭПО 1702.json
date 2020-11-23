@@ -40,6 +40,11 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "Финансовое право (лек) Уч-511",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
                 "name": "Схемы тенев эконом (пр) Уч-210",
                 "start_time": "10.15"
@@ -72,7 +77,17 @@
                 "start_time": "8.30"
             },
             {
+                "is_even": false,
+                "name": "Рынок ценн. бумаг (лек) Уч-511",
+                "start_time": "8.30"
+            },
+            {
                 "is_even": true,
+                "name": "Анализ эффект.(пр) Уч-320",
+                "start_time": "10.15"
+            },
+            {
+                "is_even": false,
                 "name": "Анализ эффект.(пр) Уч-320",
                 "start_time": "10.15"
             },
@@ -82,7 +97,17 @@
                 "start_time": "12.15"
             },
             {
+                "is_even": false,
+                "name": "Рынок ценн. бумаг (пр) Уч-204",
+                "start_time": "12.15"
+            },
+            {
                 "is_even": true,
+                "name": "Анализ эффект.(лек) Уч-511",
+                "start_time": "14.00"
+            },
+            {
+                "is_even": false,
                 "name": "Анализ эффект.(лек) Уч-511",
                 "start_time": "14.00"
             }
