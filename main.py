@@ -16,7 +16,7 @@ def download_resources():
     subprocess.call(os.path.join(file_path, "download_schedule"))
 
 def convert_to_xml():
-    for (root,dirs,files) in os.walk(SCHEDULE_DIRECTORY): 
+    for (_,_,files) in os.walk(SCHEDULE_DIRECTORY): 
         for f in files:
             flag = False
             number_of_attempts = 0
@@ -28,7 +28,7 @@ def convert_to_xml():
                 flag = web.execute(os.path.join(file_path, SCHEDULE_DIRECTORY) , f)
 
 def handle_files_and_save():
-    for (root,dirs,files) in os.walk(CONVERTED_DIRECTORY): 
+    for (_,_,files) in os.walk(CONVERTED_DIRECTORY): 
         for f in files:
             try:
                 objects = soup.execute(os.path.join(file_path, CONVERTED_DIRECTORY, f))
@@ -36,10 +36,10 @@ def handle_files_and_save():
                 print('File processing error: '+ f)
                 continue
             for obj in objects:
-                splitted_name = f.split('.')
                 #index 1 in open is a potential vulnerability
-                json_path = os.path.join(file_path, FINAL_DIRECTORY , str(splitted_name[1]) + '.json')
+                json_path = os.path.join(file_path, FINAL_DIRECTORY , obj.name + '.json')
                 new_f = open(json_path, 'w')#TODO(Check implicit point)
                 new_f.write(obj.toJSON())
+                new_f.close()
 
 handle_files_and_save()
