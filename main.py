@@ -42,4 +42,6 @@ def handle_files_and_save():
                 new_f.write(obj.toJSON())
                 new_f.close()
 
+download_resources()
+convert_to_xml()
 handle_files_and_save()
