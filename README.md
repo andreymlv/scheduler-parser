@@ -1,1 +1,1 @@
-# TSTU Shcdule json parser
+# TSTU shcedule json parser
