@@ -63,5 +63,5 @@ def handle_files_and_save():
                     print('File conversion error')
                 
 download_resources()
-#convert_all_to_xml()
-#handle_files_and_save()
+convert_all_to_xml()
+handle_files_and_save()
