@@ -1,0 +1,165 @@
+{
+    "name": "Б.ХИМ.МФХ-18.05",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Физ.  химия (лаб)  Хт-253, 252",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Физ.  химия (лаб)  Хт-253, 252",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Физ.  химия (лаб)  Хт-253, 252",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Прикл.  физ. культура",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Прикл.  физ. культура",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Хим.  технология  (лек) Хт-114",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Хим.  технология  (лек) Хт-114",
+                "start_time": 14.0
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Физ.  химия (лек) Хт-344",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Физ.  химия (лек) Хт-344",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Физ.  химия (пр) Хт-344",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Физ.  химия (пр) Хт-128",
+                "start_time": 12.15
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Прикл.  физ. культура",
+                "start_time": 8.3
+            },
+            {
+                "is_even": true,
+                "name": "Прикл.  физ. культура",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Хим.  технология  (лаб) Хт-131а",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Социология  (лек) Хт-132",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Хим.  технология  (лаб) Хт-131а",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Социология  (пр) Уч-507",
+                "start_time": 14.0
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "БЖД (лек)  Хт-132",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Латинский  язык (лек) Хт-363",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "БЖД (лаб)  Хт-203",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Латинский  язык (пр) Хт-363",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "БЖД (пр)  Хт-211",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Латинский  язык (лек) Хт-363",
+                "start_time": 15.45
+            },
+            {
+                "is_even": true,
+                "name": "Латинский  язык (пр) Хт-363",
+                "start_time": 17.3
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "Биология  с основами  экологии (лек)  Эммаусс",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Биология  с основами  экологии (лек)  Эммаусс",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Биология  с основами  экологии (лек)  Эммаусс",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Биология  с основами  экологии (лаб)  Эммаусс",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Биология  с основами  экологии (лаб)  Эммаусс",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Биология  с основами  экологии (лаб)  Эммаусс",
+                "start_time": 14.0
+            }
+        ]
+    }
+}

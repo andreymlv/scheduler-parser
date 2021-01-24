@@ -1,0 +1,145 @@
+{
+    "name": "Б.КТМ.ТМС-19.01",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Физика  (лек) Ц-321",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (лек) Ц-321",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Сопромат  (лек) Ц-133",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Сопромат  (лек) Ц-133",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (пр) Ц-321",
+                "start_time": 15.45
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Проц.  и операц. формообр.  (лек) Т-209",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Проц.  и операц. формообр.  (лаб) Т-209",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Нормир.  точности (лаб)  Уч-105",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Нормир.  точности (лек)  Уч-103",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Нормир.  точности (лек)  Уч-103",
+                "start_time": 14.0
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": true,
+                "name": "Математика  (лек) Хт-132",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Математика  (пр) Уч-235",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Математика  (пр) Уч-235",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Философия  (пр) Хт-344",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Философия  (лек) Хт-132",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Ин. язык  (пр) Уч-503, 517",
+                "start_time": 14.0
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "Теорет.  механика (лек)  Хт-132",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Элет.  дисцип. по физ.  кул-ре и спорту",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Элет.  дисцип. по физ.  кул-ре и спорту",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Теорет.  механика (пр)  Уч-337",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Теорет.  механика (пр)  Уч-337",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Ин. язык  (пр) Уч-503, 517",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Ин. язык  (пр) Уч-503, 517",
+                "start_time": 14.0
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": true,
+                "name": "Сопромат  (пр) Ц-342",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (лаб) Ц-102",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Сопромат  (лаб) Ц-342",
+                "start_time": 15.45
+            }
+        ]
+    }
+}

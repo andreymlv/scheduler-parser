@@ -1,0 +1,165 @@
+{
+    "name": "С.ГД.ОГР  – 1802",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Геомеханика  (лек) Ц-129",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "БЖД (лек)  Хт-112",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Геомеханика  (пр) Ц-129",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "БЖД (лаб)  Хт-203",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Геомеханика  (пр) Ц-129",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "БЖД (пр)  Хт-203",
+                "start_time": 14.0
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Прикладная  физ. культура",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Прикладная  физ. культура",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Строит.  геотехнол.  (лек) Л-211",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Строит.  геотехнол.  (лек) Л-211",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Строит.  геотехнол.  (пр) Л-211",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Строит.  геотехнол.  (пр) Л-211",
+                "start_time": 14.0
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Гидромеханика  (лек) Уч-114",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Гидромеханика  (лаб) Л-125",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Гидромеханика  (лаб) Л-125",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Инф.  техн. в горн.  деле (лек) Уч-232",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Инф.  техн. в горн.  деле (пр) Уч-232",
+                "start_time": 14.0
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "Горное  право (лек, пр)  Л-309",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Горное  право (пр) Л-309",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Прикл.  механика (лек)  Уч-326",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Прикл.  механика (пр)  Уч-326",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Прикл.  механика (пр)  Уч-326",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Прикладная  физ. культура",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Прикладная  физ. культура",
+                "start_time": 14.0
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "Инф.  техн. в горн.  деле (лек) Уч-232",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Экономика  (лек) Уч-511",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Инф.  техн. в горн.  деле (пр) Уч-232",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Экономика  (пр) Уч-236",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Экономика  (пр) Уч-236",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Строит.  геотехнол.  (пр) Л-211",
+                "start_time": 15.45
+            }
+        ]
+    }
+}

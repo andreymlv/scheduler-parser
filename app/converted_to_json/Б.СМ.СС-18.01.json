@@ -1,0 +1,140 @@
+{
+    "name": "Б.СМ.СС-18.01",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Метрология  (пр) Вц-317",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Метрология  (лек) Вц-217",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Осн.  безоп. пищ. пр-тв  (лек)  Хт-328",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Осн. без.  пищ. пр-тв  (пр)  Хт-328",
+                "start_time": 14.0
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Осн. техн.  пр-ва (лек) Хт-  147",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Осн. техн.  пр-ва (лек) Хт-  147",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Осн. техн.  пр-ва (пр) Хт-147",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Осн. техн.  пр-ва (пр) Хт-147",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Прикл.  физ. культура",
+                "start_time": 14.0
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Социология  (лек) Хт-132",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Социология  (пр) Уч-521",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Прикл.  физ. культура",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Прикл.  физ. культура",
+                "start_time": 14.0
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "БЖД (лаб)  Хт-203",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "БЖД (лек)  Хт-132",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "БЖД (пр)  Хт-316",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Мет.  контр. кач.(лаб)  Хт-261",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Мет.  контр. кач.(лек)  Хт-114",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Мет.  контр. кач.(лек)  Хт-114",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Мет.  контр. кач.(лаб)  Хт-261",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Мет.  контр. кач.(лаб)  Хт-261",
+                "start_time": 15.45
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "Осн.  безоп. пищ. пр-тв  (лаб)  Хт-330",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Осн.  безоп. пищ. пр-тв  (лаб)  Хт-330",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Экспертиза  продукции  (лек)  Хт-114",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Экспертиза  продукции  (пр)  Хт-114",
+                "start_time": 14.0
+            }
+        ]
+    }
+}

@@ -1,0 +1,145 @@
+{
+    "name": "Б.ПВ.ЭУЗР  – 1908",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": true,
+                "name": "Математика  (лек) Л-308",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Физика  (лек) Уч-325",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (лек) Уч-325",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Математика  (пр) Уч-236",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Математика  (пр) Уч-236",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Физика  (лаб) Уч-414",
+                "start_time": 15.45
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (пр) Уч-414",
+                "start_time": 15.45
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Немецкий  язык (пр) Уч-422",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Гидрогеология  (пр) Л-310",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Гидрогеология  (лек) Л-310",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Гидрогеология  (пр) Л-310",
+                "start_time": 15.45
+            },
+            {
+                "is_even": true,
+                "name": "Иностранный  язык (пр) Уч-335,  409",
+                "start_time": 15.45
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Философия  (лек) Л-308",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Философия  (пр) Л-306",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Философия  (пр) Л-306",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Инженерн.  граф.(лек, пр)  Уч-426",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Инженерн.  граф.(лек, пр)  Уч-426",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Инженерн.  граф.(пр) Уч-426",
+                "start_time": 15.45
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "Немецкий  язык (пр) Уч-422",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Немецкий  язык (пр) Уч-422",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Почвоведение  (лек) Л-307",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Почвоведение  (пр, лаб) Л-307",
+                "start_time": 15.45
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "Иностранный  язык (пр) Уч-335,  409",
+                "start_time": 8.3
+            },
+            {
+                "is_even": true,
+                "name": "Иностранный  язык (пр) Уч-335,  409",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Элет.  дисцип. по физ.  кул-ре и спорту",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Элет.  дисцип. по физ.  кул-ре и спорту",
+                "start_time": 10.15
+            }
+        ]
+    }
+}

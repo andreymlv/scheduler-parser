@@ -1,0 +1,115 @@
+{
+    "name": "С.НТС.  ЧС – 20.09",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Физика  (лек) Л-308",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Начерт.  геометрия  (лаб) Уч-432",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Физика  (лаб) Уч-413",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (лаб) Уч-413",
+                "start_time": 12.15
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Математика  (пр) Уч-325",
+                "start_time": 12.15
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Иностранный  язык (пр) Уч-409,  335",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Введ.  в спец. (лек, пр)  Уч-312",
+                "start_time": 10.15
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "История  (лек) Л-308",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Библиотека  4.11, 18.11 Хт-101",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Химия  (лек) Хт-142",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (пр) Уч-414",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Химия  (лаб) Хт-340",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Химия  (лаб) Хт-340",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Химия  (лек) Хт-128",
+                "start_time": 15.45
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "Информатика  (лек) Уч-403",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Начерт.  геометрия  (лек) Уч-432",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Начерт.  геометрия  (лаб) Уч-432",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Информатика  (лаб) Уч-233",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Информатика  (лаб) Уч-233",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "История  (пр) Уч-515",
+                "start_time": 14.0
+            }
+        ]
+    }
+}

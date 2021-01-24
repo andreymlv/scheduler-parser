@@ -1,0 +1,1 @@
+# TSTU shcedule json parser

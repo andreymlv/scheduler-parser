@@ -1,0 +1,180 @@
+{
+    "name": "Б.АТПП.М-18.02",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": true,
+                "name": "Экономика  (пр) Хт-128",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Экономика  (пр) Уч-507",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Экономика  (лек) Хт-132",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Осн.  проектир. и  конструир.  (лек)  Уч-339",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Мат.  стат-ка в машин.  (пр) Уч-105",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Осн.  проектир. и  конструир.  (пр)  Уч-339",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Осн.  проект. и констр.(лаб)  Уч-339",
+                "start_time": 14.0
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Мат.  стат-ка в машин.  (лаб) Уч-105",
+                "start_time": 8.3
+            },
+            {
+                "is_even": true,
+                "name": "Мат.  стат-ка в машин.  (лаб) Уч-105",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "БЖД (пр)  Хт-203",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "БЖД (лаб)  Хт-203",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Прикл.  физ. культура",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Прикл.  физ. культура",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Мат.  стат-ка в машин.  (лек) Уч-105",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "БЖД (лек)  Хт-132",
+                "start_time": 14.0
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Базы  знаний (лек)  Уч-518",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Базы  знаний (лаб)  Уч-518",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Электроника  (лек) Хт-232",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Электроника  (лек) Хт-232",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Электроника  (пр) Хт-234, 227",
+                "start_time": 15.45
+            },
+            {
+                "is_even": true,
+                "name": "Электроника  (лаб) Хт-234",
+                "start_time": 15.45
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "Режущий  инструмент  (пр) Т-211",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Режущий  инструмент  (лаб) Т-211",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Режущий  инструмент  (лек) Т-211",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Режущий  инструмент  (лек) Т-211",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Прикл.  физ. культура",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Прикл.  физ. культура",
+                "start_time": 14.0
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "Оборуд.  маш. производств  (пр)  Т-209",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Базы  знаний (лаб)  Уч-105",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Оборуд.  маш. производств  (лек)  Т-209",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Оборуд.  маш. производств  (лек)  Т-209",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Оборуд.  маш. производств  (лаб)  Т-209",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Оборуд.  маш. производств  (лаб)  Т-209",
+                "start_time": 14.0
+            }
+        ]
+    }
+}

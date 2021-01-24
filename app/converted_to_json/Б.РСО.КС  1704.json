@@ -1,0 +1,118 @@
+{
+    "name": "Б.РСО.КС  1704",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Управ.  персон. (лек,  пр) Ц-235",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Event-менеджм.  (лек) Ц-235",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Управ.  персон. (пр) Ц-235",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Event-менеджм.  (пр) Ц-235",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Event-менеджм.  (пр) Ц-235",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Интернет-рекл.(лек,  пр) Ц-235",
+                "start_time": 15.45
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "Маркетингов.  исслед.(лек)  Ц-340",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Маркетингов.  исслед.(пр) Ц-340",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Анализ  поведен.(лек)  Ц-340",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Совр.  пресслужба  (пр) Ц-340",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Анализ  поведен.(пр)  Ц-340",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Анализ  поведен.(пр)  Ц-340",
+                "start_time": 14.0
+            }
+        ],
+        "Суббота": [
+            {
+                "is_even": false,
+                "name": "Реклама  и связ. с общ.(лек)  Ц-235",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Реклама  и связ. с общ.(пр)  Ц-235",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Реклама  и связ. с общ.(пр)  Ц-235",
+                "start_time": 14.0
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": true,
+                "name": "Интернет-рекл.(пр)  Ц-235",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Совр.  пресслужба  (лек, пр) Ц-235",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Сторителлинг  в рекл.(лек) Ц-235",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Совр.  пресслужба  (пр) Ц-235",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Сторителлинг  в рекл.(лек, пр)  Ц-235",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Сторителлинг  в рекл.(пр) Ц-235",
+                "start_time": 15.45
+            }
+        ]
+    }
+}

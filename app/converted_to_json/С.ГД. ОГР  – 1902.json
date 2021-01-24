@@ -1,0 +1,130 @@
+{
+    "name": "С.ГД. ОГР  – 1902",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Элет.  дисцип. по физ.  кул-ре и спорту",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Теоретич.  механика (лек)  Хт-112",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Иностранный  язык (пр) Уч-335,  409",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Открытая  геотехнология  (лек) Л-306",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Открытая  геотехнология  (пр) Л-306",
+                "start_time": 14.0
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Физика  (лек) Уч-403",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Геология  (лек) Л-307",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Геология  (пр) Л-307",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Геология  (пр) Л-307",
+                "start_time": 12.15
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Философия  (лек) Л-308",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Иностранный  язык (пр) Уч-335,  409",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Иностранный  язык (пр) Уч-335,  409",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Философия  (пр) Л-306",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Философия  (пр) Л-306",
+                "start_time": 14.0
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "Открытая  геотехнология  (лек,  пр) Л-211",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Математика  (лек) Л-308",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Открытая  геотехнология  (пр) Л-211",
+                "start_time": 12.15
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "Теорет.  механика (пр)  Уч-339",
+                "start_time": 8.3
+            },
+            {
+                "is_even": true,
+                "name": "Теорет.  механика (пр)  Уч-339",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Физика  (лаб) Уч-414",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (пр) Уч-414",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Математика  (пр) Л-306",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Математика  (пр) Л-306",
+                "start_time": 12.15
+            }
+        ]
+    }
+}

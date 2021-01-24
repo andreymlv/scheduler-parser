@@ -1,0 +1,138 @@
+{
+    "name": "Б.ЭРП.ООС-1707",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Организ.  гос. контр.(лек)  Л-302",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Организ.  гос. контр.(пр)  Л-302",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "УКВ (лек,  пр) Л-302",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "УКВ (лек,  пр) Л-302",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "УКВ (пр)  Л-302",
+                "start_time": 14.0
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Организ.  гос. контр.(лек)  Л-302",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Процессы  и аппар.(лек)  Л-302",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Организ.  гос. контр.(пр)  Л-302",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Организ.  гос. контр.(пр)  Л-302",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Эколог.  нормиров.(лек)  Л-302",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Эколог.  нормиров.(лек)  Л-302",
+                "start_time": 14.0
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "Эколог.  нормиров.(пр)  Л-302",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Процессы  и аппар.(пр) Л-302",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "УКВ (лек)  Л-302",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "ОРИВР  (лек) Л-302",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "УКВ (лаб)  Уч-512",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "ОРИВР  (лаб) Уч-233",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "ОРИВР  (лаб) Уч-233",
+                "start_time": 14.0
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "ОРИВР  (лек) Л-302",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "ОРИВР  (лек) Л-302",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "ОРИВР  (пр) Л-302",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "ОРИВР  (пр) Л-302",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Экологич.  монитор.(лек)  Л-310",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Экологич.  монитор.(пр,  лаб) Л-310",
+                "start_time": 15.45
+            },
+            {
+                "is_even": true,
+                "name": "Экологич.  монитор.(пр,  лаб) Л-310",
+                "start_time": 15.45
+            }
+        ]
+    }
+}

@@ -1,0 +1,140 @@
+{
+    "name": "Б.ХИМ.МФХ-19.05",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Физика  (лек) Уч-414, 417",
+                "start_time": 8.3
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (лек) Уч-414, 417",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Физика  (лаб) Уч-414",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (лаб) Уч-414",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Физика  (пр) Уч-414, 417",
+                "start_time": 12.15
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Психология  (лек) Хт-132",
+                "start_time": 8.3
+            },
+            {
+                "is_even": true,
+                "name": "Ин. язык  (пр) Уч-518, 521",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Психология  (пр) Уч-521",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Орган.  химия (лек) Хт-363",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Строен.  в-ва (лек) Вц-307",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Строен.  в-ва (лек) Вц-307",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Строен.  в-ва (пр) Вц-307",
+                "start_time": 14.0
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": false,
+                "name": "Ин. язык  (пр) Уч-503, 517",
+                "start_time": 8.3
+            },
+            {
+                "is_even": true,
+                "name": "Ин. язык  (пр) Уч-503, 517",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Элет.  дисцип. по физ.  кул-ре и спорту",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Элет.  дисцип. по физ.  кул-ре и спорту",
+                "start_time": 10.15
+            }
+        ],
+        "Суббота": [
+            {
+                "is_even": false,
+                "name": "Орган.  химия (пр) Хт-363",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Орган.  химия (пр) Хт-363",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Орган.  химия (лаб)  Хт-348, 342",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Орган.  химия (лаб)  Хт-348, 342",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Орган.  химия (лаб)  Хт-348, 342",
+                "start_time": 14.0
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": false,
+                "name": "Математика  (лек) Хт-132",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Математика  (пр) Хт-344",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Орган.  химия (лек) Хт-363",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Орган.  химия (лек) Хт-363",
+                "start_time": 12.15
+            }
+        ]
+    }
+}

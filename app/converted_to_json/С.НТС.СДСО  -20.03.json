@@ -1,0 +1,130 @@
+{
+    "name": "С.НТС.СДСО  -20.03",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "История  (лек) Хт-132",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Нач.  геометрия и  инж. графика  (лаб)  Уч-432",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Нач.  геометрия и  инж. графика  (лаб)  Уч-432",
+                "start_time": 14.0
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "Математика  (пр) Уч-507",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Математика  (пр) Уч-507",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Элет.  дисцип. по физ.  кул-ре и спорту",
+                "start_time": 14.0
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": false,
+                "name": "Химия  (лек) Хт-344",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Химия  (лаб) Хт-340",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Химия  (лаб) Хт-340",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Библиотека  30.10, 13.11 Хт-101",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Речев.  и делов. коммуник.  (лек) Хт-132",
+                "start_time": 12.15
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": true,
+                "name": "Физика  (пр) Ц-102",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Физика  (лаб) Ц-106",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (лаб) Ц-106",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Физика  (лек) Ц-321",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Физика  (лек) Ц-321",
+                "start_time": 12.15
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": true,
+                "name": "Речев.  и делов. коммуник.  (пр) Уч-522",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "Нач.  геометрия и  инж. графика  (лек)  Уч-432",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Информатика  (лек) Уч-235",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Ин. язык  (пр) Уч-503, 517",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Ин. язык  (пр) Уч-503, 517",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Информатика  (лаб) Уч-234",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Информатика  (лаб) Уч-234",
+                "start_time": 14.0
+            }
+        ]
+    }
+}

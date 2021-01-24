@@ -1,0 +1,150 @@
+{
+    "name": "Б.ХТ.ТПП-18.02",
+    "subjects": {
+        "Вторник": [
+            {
+                "is_even": false,
+                "name": "Физ.-хим.  полимеров  (лек)  Хт-363",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "ОХТ (лек)  Хт-363",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Физ.-хим.  полимеров  (пр)  Хт-363",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Прикл.  физ. культура",
+                "start_time": 15.45
+            }
+        ],
+        "Понедельник": [
+            {
+                "is_even": false,
+                "name": "БЖД (пр)  Хт-205",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "БЖД (лаб)  Хт-205",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Технич.  термодин. (лек)  Уч-233",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Кинет.  и термод.(лек)  Хт-344",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Кинет.  и термодин.(пр)  Хт-344",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Технич.  термодин. (пр)  Уч-233",
+                "start_time": 14.0
+            }
+        ],
+        "Пятница": [
+            {
+                "is_even": true,
+                "name": "Хим.  мономеров  (лаб) Хт-348",
+                "start_time": 8.3
+            },
+            {
+                "is_even": true,
+                "name": "Хим.  мономеров  (лаб) Хт-348",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Социология  (лек) Хт-132",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Социология  (пр) Уч-521",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "ОХТ (лаб)  Хт-263",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "ОХТ (лаб)  Хт-263",
+                "start_time": 15.45
+            }
+        ],
+        "Среда": [
+            {
+                "is_even": true,
+                "name": "Мет.  орган. хим. (лек)  Хт-328",
+                "start_time": 8.3
+            },
+            {
+                "is_even": false,
+                "name": "БЖД (лек)  Хт-132",
+                "start_time": 10.15
+            },
+            {
+                "is_even": true,
+                "name": "Мет.  орган. хим. (лаб)  Хт-348,342",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Мет.  орган. хим. (лек)  Хт-328",
+                "start_time": 12.15
+            },
+            {
+                "is_even": true,
+                "name": "Мет.  орган. хим. (лаб)  Хт-348,342",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Мет.  орган. хим. (пр)  Хт-328",
+                "start_time": 14.0
+            },
+            {
+                "is_even": true,
+                "name": "Мет.  орган. хим. (лаб)  Хт-348,342",
+                "start_time": 14.0
+            }
+        ],
+        "Четверг": [
+            {
+                "is_even": true,
+                "name": "Хим.  мономеров  (лек) Хт-328",
+                "start_time": 10.15
+            },
+            {
+                "is_even": false,
+                "name": "Проц.  и аппар. хим.  техн. (лек)  Хт-142",
+                "start_time": 12.15
+            },
+            {
+                "is_even": false,
+                "name": "Прикл.  физ. культура",
+                "start_time": 14.0
+            },
+            {
+                "is_even": false,
+                "name": "Проц.  и аппар. хим.  техн. (лаб)  Хт-138",
+                "start_time": 15.45
+            }
+        ]
+    }
+}
